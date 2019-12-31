@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status">post</string>
+    <string name="teman">friend</string>
+    <string name="grup">group</string>
+</resources>
